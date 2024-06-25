@@ -18,7 +18,7 @@ const Home = () => {
           <br />I am {config.name}
           <p className="text-2xl">
             I am a
-            <span className="text-black font-bold text-3xl">{config.role}</span>
+            <span className="text-black font-bold text-3xl"> {config.role}</span>
           </p>
         </h1>
         <div className="flex py-4">

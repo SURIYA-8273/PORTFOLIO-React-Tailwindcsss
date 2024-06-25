@@ -12,9 +12,9 @@ const Projects = () => {
     ],
   };
   return (
-    <section className="bg-primary py-10 flex flex-col " id="project">
+    <section className="bg-secondary py-10 flex flex-col " id="project">
       <div className=" pl-4 w-1/3 text-center">
-        <h1 className="text-white text-bold text-4xl border-b-8 border-secondary-color inline-block">
+        <h1 className="text-white text-bold text-4xl border-b-4 border-primary-border inline-block">
           PROJECT
         </h1>
       </div>

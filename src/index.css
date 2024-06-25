@@ -27,12 +27,17 @@ header ul li {
 }
 
 .image-text {
-  @apply absolute top-0 left-0 right-0 h-full bg-secondary opacity-0 hover:opacity-100 hover:border-4;
+  @apply absolute top-0 left-0 right-0 h-full bg-primary duration-200 opacity-0 hover:opacity-100 hover:border-4;
 }
 
 .btn {
   @apply bg-primary px-5 py-2 font-bold border-2 border-secondary-color rounded hover:border-white;
 }
+.btn2 {
+  @apply bg-secondary px-5 py-2 font-bold border-2 border-secondary-color rounded hover:border-white;
+}
+
+
 
 .contact p {
   @apply text-white pt-4 text-xl;
