@@ -15,7 +15,7 @@ const Projects = () => {
     <section className="bg-primary py-10 flex flex-col " id="project">
       <div className=" pl-4 w-1/3 text-center">
         <h1 className="text-white text-bold text-4xl border-b-8 border-secondary-color inline-block">
-          PROJECTS
+          PROJECT
         </h1>
       </div>
       <div className="flex  flex-col md:flex-row px-2 py-10 .project-image justify-center items-center flex-wrap gap-6">
