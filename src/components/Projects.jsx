@@ -6,7 +6,7 @@ const Projects = () => {
       {
         image: project1,
         name: "This is my Portfolio Website",
-        link: "https://github.com/SURIYA-8273/Portfolio",
+        link: "https://github.com/SURIYA-8273/PORTFOLIO-React-Tailwindcsss",
         live: "",
       },
     ],
